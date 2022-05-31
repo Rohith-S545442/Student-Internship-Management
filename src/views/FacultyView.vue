@@ -14,6 +14,7 @@
 }
 h1{
   text-align: center;
+  color: #004600;
 }
 
 .faculty input{
